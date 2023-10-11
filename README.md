@@ -1,6 +1,6 @@
 # municipio_estado
 
-Criar script para ler os datasets em /exercicios/municipios-estados — o script deve:
+Criar script para ler os datasets referentes a estados e municipios:
 - Criar uma pasta nomeada com a sigla da UF para cada estado encontrado no arquivo CSV;
 - Organizar as cidades por estado um único arquivo CSV, nomeado como cidades.csv;
 - Salvar esse arquivo cidades.csv dentro da pasta da UF (estado) correspondente.
